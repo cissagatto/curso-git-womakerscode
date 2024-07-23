@@ -25,4 +25,5 @@ ssh-add ~/.ssh/id_rsa
 
 ### git push
 
-  git push --set-upstream origin master
+git remote set-url origin https://github.com/cissa/curso-git-womakerscode.git
+git push --set-upstream origin master
